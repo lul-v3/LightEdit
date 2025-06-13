@@ -2,7 +2,7 @@
 
 ![LightEdit](https://github.com/lul-v3/LightEdit/blob/main/github/img/LightEditPreview.png)
 
-**LightEdit** is a modern, lightweight C++ code editor built for SDL3/OpenGL/GLEW projects — ideal for game development, low-level rendering, or small indie engines.
+**LightEdit** is a basic, lightweight C++ code editor built for SDL3/OpenGL/GLEW projects — ideal for game development, low-level rendering, or small indie engines.
 
 > ✨ Built with **C++17**, **SDL3**, **OpenGL/GLEW**, **ImGui (Docking)** and **ImGuiColorTextEdit**
 
