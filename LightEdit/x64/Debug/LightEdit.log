@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\dev\c++\LightEdit\LightEdit\src\main.cpp(374,47): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\dev\c++\LightEdit\LightEdit\src\main.cpp(393,68): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\dev\c++\LightEdit\LightEdit\src\main.cpp(446,47): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\dev\c++\LightEdit\LightEdit\src\main.cpp(475,70): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\dev\c++\LightEdit\LightEdit\src\main.cpp(570,44): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  LightEdit.vcxproj -> C:\dev\c++\LightEdit\x64\Debug\LightEdit.exe

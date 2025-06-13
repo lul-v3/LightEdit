@@ -1,0 +1,9 @@
+C:\dev\c++\LightEdit\LightEdit\src\ImGui\imgui.cpp;C:\dev\c++\LightEdit\LightEdit\x64\Debug\imgui.obj
+C:\dev\c++\LightEdit\LightEdit\src\ImGui\imgui_demo.cpp;C:\dev\c++\LightEdit\LightEdit\x64\Debug\imgui_demo.obj
+C:\dev\c++\LightEdit\LightEdit\src\ImGui\imgui_draw.cpp;C:\dev\c++\LightEdit\LightEdit\x64\Debug\imgui_draw.obj
+C:\dev\c++\LightEdit\LightEdit\src\ImGui\imgui_impl_opengl3.cpp;C:\dev\c++\LightEdit\LightEdit\x64\Debug\imgui_impl_opengl3.obj
+C:\dev\c++\LightEdit\LightEdit\src\ImGui\imgui_impl_sdl3.cpp;C:\dev\c++\LightEdit\LightEdit\x64\Debug\imgui_impl_sdl3.obj
+C:\dev\c++\LightEdit\LightEdit\src\ImGui\imgui_tables.cpp;C:\dev\c++\LightEdit\LightEdit\x64\Debug\imgui_tables.obj
+C:\dev\c++\LightEdit\LightEdit\src\ImGui\imgui_widgets.cpp;C:\dev\c++\LightEdit\LightEdit\x64\Debug\imgui_widgets.obj
+C:\dev\c++\LightEdit\LightEdit\src\ImGui\TextEditor.cpp;C:\dev\c++\LightEdit\LightEdit\x64\Debug\TextEditor.obj
+C:\dev\c++\LightEdit\LightEdit\src\main.cpp;C:\dev\c++\LightEdit\LightEdit\x64\Debug\main.obj
