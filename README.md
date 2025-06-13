@@ -1,6 +1,6 @@
 # LightEdit 🌙 – Lightweight C++ Game Code Editor
 
-![LightEdit](https://raw.githubusercontent.com/lul-v3/LightEdit/refs/heads/main/github/img/LightEditPreview.png?token=GHSAT0AAAAAADERC7IMSXLHLQFENMTQRC2E2CLRCUQ)
+![LightEdit](https://github.com/lul-v3/LightEdit/blob/main/github/img/LightEditPreview.png)
 
 **LightEdit** is a modern, lightweight C++ code editor built for SDL3/OpenGL/GLEW projects — ideal for game development, low-level rendering, or small indie engines.
 
@@ -24,13 +24,13 @@
 
 
 ### 🧱 Project Explorer + Tabbed Editor  
-![Project Explorer](https://raw.githubusercontent.com/lul-v3/LightEdit/refs/heads/main/github/img/ProjectExplorer.png?token=GHSAT0AAAAAADERC7INB5LML2IONWZKL3FG2CLRBHA)
+![Project Explorer](https://github.com/lul-v3/LightEdit/blob/main/github/img/ProjectExplorer.png)
 
 ### 🧑‍💻 Editor View with Syntax Highlighting  
-![Code Editor](https://raw.githubusercontent.com/lul-v3/LightEdit/refs/heads/main/github/img/CodeEditor.png?token=GHSAT0AAAAAADERC7INMWE446TJUSZ5KB4A2CLQ7IQ)
+![Code Editor](https://github.com/lul-v3/LightEdit/blob/main/github/img/CodeEditor.png)
 
 ### ⚙️ Build Output / Console Panel  
-![Build Output](https://raw.githubusercontent.com/lul-v3/LightEdit/refs/heads/main/github/img/BuildOutput.png?token=GHSAT0AAAAAADERC7IMBNAFJO46YQWZBP5I2CLQ7JA)
+![Build Output](https://github.com/lul-v3/LightEdit/blob/main/github/img/BuildOutput.png)
 
 ---
 
