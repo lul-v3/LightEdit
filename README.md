@@ -93,4 +93,4 @@ It is modular by design and aims to eventually become a tooling base for game de
 
 # 📜 License
 
-MIT License – Free for personal and commercial use.
+[MIT License](https://github.com/lul-v3/LightEdit/blob/main/LICENSE) – Free for personal and commercial use.
