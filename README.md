@@ -1,6 +1,6 @@
 # LightEdit 🌙 – Lightweight C++ Game Code Editor
 
-![LightEdit](https://raw.githubusercontent.com/lul-v3/LightEdit/refs/heads/main/github/img/LightEditPreview.png?token=GHSAT0AAAAAADERC7IMCUBPZCHCPFGSKMWG2CLQXSQ)
+![LightEdit](https://raw.githubusercontent.com/lul-v3/LightEdit/refs/heads/main/github/img/LightEditPreview.png?token=GHSAT0AAAAAADERC7IMSXLHLQFENMTQRC2E2CLRCUQ)
 
 **LightEdit** is a modern, lightweight C++ code editor built for SDL3/OpenGL/GLEW projects — ideal for game development, low-level rendering, or small indie engines.
 
