@@ -1,4 +1,4 @@
-# LightEdit 🌙 – Lightweight C++ Game Code Editor
+# LightEdit 🌙 – Lightweight C++ Code Editor
 
 ![LightEdit](https://github.com/lul-v3/LightEdit/blob/main/github/img/LightEditPreview.png)
 
